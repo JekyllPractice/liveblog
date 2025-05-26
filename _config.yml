@@ -1,0 +1,10 @@
+# Replace the contents of config.yml 
+
+title: Liveblog
+remote-theme: jekyll/minima
+baseurl: /Liveblog
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
