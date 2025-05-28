@@ -2,7 +2,7 @@
 
 title: Liveblog
 remote-theme: jekyll/minima
-baseurl: /Liveblog
+baseurl: "/liveblog"
 
 plugins:
   - jekyll-feed
