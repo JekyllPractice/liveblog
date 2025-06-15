@@ -1,7 +1,7 @@
 ### Sample DNS Record Screenshot
 
-<a href="/assets/images/dns-records.png" target="_blank">
-  <img src="/assets/images/dns-records.png" alt="DNS Records Table" width="700" />
+<a href="/assets/images/dns_records.png" target="_blank">
+  <img src="/assets/images/dns_records.png" alt="DNS Records Table" width="700" />
 </a>
 <p style="text-align:center;"><em>Click the image to view full size</em></p>
 
