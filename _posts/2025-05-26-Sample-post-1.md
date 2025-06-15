@@ -12,3 +12,5 @@ Once upon a time, there lived a big elephant in the jungle. As the elephant was 
 ## Moral Of the Story:  
 - Never underestimate anyone and hurt anyone.
 - Always be kind to smaller, or weaker creatures.  
+
+> ***Note: This story is adapted from a source available online, used here for illustrative purposes.***

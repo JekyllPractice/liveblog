@@ -2,7 +2,8 @@
 
 title: Liveblog
 remote-theme: jekyll/minima
-baseurl: "/liveblog"
+url: "https://lovely-dodol-e05f66.netlify.app""
+baseurl: ""
 
 plugins:
   - jekyll-feed
