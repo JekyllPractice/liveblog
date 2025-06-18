@@ -10,7 +10,8 @@
 <details>
 <summary>🔽 Click to view HTML version</summary>
 
-```html
+```
+html
 <table>
   <thead>
     <tr><th>Type</th><th>Name / Host</th><th>Value / Points to</th></tr>
