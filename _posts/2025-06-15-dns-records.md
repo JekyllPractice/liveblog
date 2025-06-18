@@ -22,4 +22,5 @@ html
     <tr><td>TXT</td><td>netlify-challenge</td><td>your-challenge-value</td></tr>
   </tbody>
 </table>
-</details>```
+```
+</details>
